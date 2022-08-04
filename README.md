@@ -62,7 +62,7 @@ Before
 
 After
 
-![image](https://user-images.githubusercontent.com/63797979/182922120-6ca30c66-ea7c-4856-a70f-1ad95ce9fde5.png)
+![image](https://user-images.githubusercontent.com/63797979/182925028-b5b3edab-dfad-4a77-86b0-12f805065ff9.png)
 
 
 Prompt = 'beautiful waterfall'
