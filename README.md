@@ -26,20 +26,18 @@ Images are more attractive compared to text. Visual aids can deliver information
 1)	VQGAN_model = "imagenet_f16-16384" 
     model = "ViT-B/32"
     style = "Classicism"
-    
-    * Prompt = 'أزهار جميلة'
-    
+    Prompt = 'أزهار جميلة'
+   
     Before
     
     ![image](https://user-images.githubusercontent.com/63797979/182921602-2d025877-7958-495c-9168-824171be54bc.png)
-    
     
     After
     
     ![image](https://user-images.githubusercontent.com/63797979/182921663-bf9a6ffb-9392-4d8c-a46f-4e9840e67b9c.png)
 
 
-    * Prompt = 'cosmic crystals of jelly and fire flowers'
+    Prompt = 'cosmic crystals of jelly and fire flowers'
     
     Before
     
