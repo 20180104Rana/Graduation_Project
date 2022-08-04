@@ -21,7 +21,7 @@ Images are more attractive compared to text. Visual aids can deliver information
 * various CLIP models (incl. multi-language from SBERT).
 * optimization with SIREN
 
-# Results (Before Optimization & After Optimization)
+# Results (Before & After Optimization)
 
 1) VQGAN_model = "imagenet_f16-16384" , model = "ViT-B/32" , style = "Classicism"
 
