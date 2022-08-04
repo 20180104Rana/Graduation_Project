@@ -23,7 +23,7 @@ Images are more attractive compared to text. Visual aids can deliver information
 
 # Results (Before Optimization & After Optimization)
 
-VQGAN_model = "imagenet_f16-16384" , model = "ViT-B/32" , style = "Classicism"
+1) VQGAN_model = "imagenet_f16-16384" , model = "ViT-B/32" , style = "Classicism"
 
 
 Prompt = 'أزهار جميلة'
@@ -50,9 +50,7 @@ After
 
 
 
-2)	VQGAN_model = "sflckr"
-model = "ViT-B/32"
-style = "Post-Impressionism"
+2)	VQGAN_model = "sflckr" , model = "ViT-B/32" , style = "Post-Impressionism"
 
 Prompt = 'Victorian house on hill'
 
