@@ -69,12 +69,12 @@ Prompt = 'beautiful waterfall'
 
 Before 
 
-![image](https://user-images.githubusercontent.com/63797979/182923464-2e7fcd49-cb02-4a82-ae94-cb60d7554a92.png)
+![image](https://user-images.githubusercontent.com/63797979/182926490-3f3fc2c0-f750-4cb4-9e14-4fa946c40dd4.png)
 
 
 After
 
-![image](https://user-images.githubusercontent.com/63797979/182923523-f513e51b-ecd4-4387-b381-a6429513bf42.png)
+![image](https://user-images.githubusercontent.com/63797979/182926351-c53f5242-11d4-43d9-9a63-2864dd723915.png)
 
 
 
