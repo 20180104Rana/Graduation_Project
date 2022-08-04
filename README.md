@@ -65,5 +65,18 @@ After
 ![image](https://user-images.githubusercontent.com/63797979/182922120-6ca30c66-ea7c-4856-a70f-1ad95ce9fde5.png)
 
 
+Prompt = 'beautiful waterfall'
+
+Before 
+
+![image](https://user-images.githubusercontent.com/63797979/182923464-2e7fcd49-cb02-4a82-ae94-cb60d7554a92.png)
+
+
+After
+
+![image](https://user-images.githubusercontent.com/63797979/182923523-f513e51b-ecd4-4387-b381-a6429513bf42.png)
+
+
+
 
 
